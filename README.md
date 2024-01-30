@@ -1,2 +1,2 @@
 # Create_Project-Git
-Example abou Git
+Example about Git
